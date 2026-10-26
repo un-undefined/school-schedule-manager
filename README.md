@@ -1,5 +1,5 @@
 This schedule manager is meant for my school's schedule system, and for Windows only.
-On first download, this program will:
+On first run, this program will:
  - Create a `config.json` file in `C:\Users\<USER>\AppData\Local`, or `%localappdata%`.
      - This file can be directly modified if it is required.
      - If you change it to be illegal / incorrect, the program will likely crash.
@@ -14,4 +14,7 @@ The configuration settings includes:
  - Class Editor (can change accent color, icon, name, and period)
  - Special Day Editor (can change certain short or no-school days, and the school start and end dates)
 
+Inno Setup is used to install the app on your computer easily.
+
 This software is licensed under the MIT License.
+Read the `LICENSE` file for additional information.
