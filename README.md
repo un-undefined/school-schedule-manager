@@ -21,5 +21,7 @@ To directly change the special days, like school start, school end, shortened da
 
 Inno Setup is used to install the app on your computer easily.
 
+Please ignore my horrible coding. It works.
+
 This software is licensed under the MIT License.
 Read the `LICENSE` file for additional information.
