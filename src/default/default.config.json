@@ -1,0 +1,537 @@
+{
+    "class_data": {
+        "yearly_data": {
+            "student_data": {
+                "courses": [
+                    {
+                        "period": "1",
+                        "class_type": "class",
+                        "class_name": "Humanities",
+                        "icon": "book-open-text",
+                        "accent_color": "#D99B26"
+                    },
+                    {
+                        "period": "2",
+                        "class_type": "class",
+                        "class_name": "Humanities",
+                        "icon": "landmark",
+                        "accent_color": "#D99B26"
+                    },
+                    {
+                        "period": "3",
+                        "class_type": "class",
+                        "class_name": "Spanish III",
+                        "icon": "languages",
+                        "accent_color": "#8C46E6"
+                    },
+                    {
+                        "period": "4",
+                        "class_type": "class",
+                        "class_name": "Robotics",
+                        "icon": "bot",
+                        "accent_color": "#2CA5C4"
+                    },
+                    {
+                        "period": "5xA",
+                        "class_type": "class",
+                        "class_name": "Study Hall MINI",
+                        "icon": "notebook-pen",
+                        "accent_color": "#8C6A43"
+                    },
+                    {
+                        "period": "5yA",
+                        "class_type": "class",
+                        "class_name": "Biology III MINI",
+                        "icon": "germ",
+                        "accent_color": "#2EA84B"
+                    },
+                    {
+                        "period": "5xC",
+                        "class_type": "class",
+                        "class_name": "FLIGHT MINI",
+                        "icon": "plane-takeoff",
+                        "accent_color": "#5BB3DE"
+                    },
+                    {
+                        "period": "5yC",
+                        "class_type": "class",
+                        "class_name": "Study Hall MINI",
+                        "icon": "notebook-pen",
+                        "accent_color": "#8C6A43"
+                    },
+                    {
+                        "period": "6",
+                        "class_type": "class",
+                        "class_name": "Biology III",
+                        "icon": "microscope",
+                        "accent_color": "#2EA84B"
+                    },
+                    {
+                        "period": "7",
+                        "class_type": "class",
+                        "class_name": "Public Speaking",
+                        "icon": "speech",
+                        "accent_color": "#E64D80"
+                    },
+                    {
+                        "period": "8",
+                        "class_type": "class",
+                        "class_name": "Math (3-in-2)",
+                        "icon": "calculator",
+                        "accent_color": "#4C8BF5"
+                    },
+                    {
+                        "period": "A",
+                        "class_type": "advisory",
+                        "class_name": "Advisory",
+                        "icon": "users",
+                        "accent_color": "#D94E4E"
+                    },
+                    {
+                        "period": "L",
+                        "class_type": "lunch",
+                        "class_name": "Lunch",
+                        "icon": "hamburger",
+                        "accent_color": "#48B833"
+                    },
+                    {
+                        "period": "*",
+                        "class_type": "transition",
+                        "class_name": "Transition",
+                        "icon": "arrow-right-from-line",
+                        "accent_color": "#6B828A"
+                    },
+                    {
+                        "period": "/",
+                        "class_type": "none",
+                        "class_name": "None",
+                        "icon": "calendar-x",
+                        "accent_color": "#757B85"
+                    },
+                    {
+                        "period": "E",
+                        "class_type": "end_of_school_day",
+                        "class_name": "End of School Day",
+                        "icon": "log-out",
+                        "accent_color": "#C5C5C5"
+                    },
+                    {
+                        "period": "B",
+                        "class_type": "before_school",
+                        "class_name": "Before School",
+                        "icon": "alarm-clock",
+                        "accent_color": "#757B85"
+                    },
+                    {
+                        "period": "N",
+                        "class_type": "no_school",
+                        "class_name": "No School!",
+                        "icon": "party-popper",
+                        "accent_color": "#9A50E6"
+                    }
+                ],
+                "lunch_schedules": [
+                    3,
+                    1,
+                    1,
+                    5
+                ]
+            },
+            "special_dates": {
+                "year": 2026,
+                "school_bounds": [
+                    "8,25",
+                    "6,11"
+                ],
+                "no_school": [
+                    "9,7",
+                    "9,21",
+                    "10,12",
+                    "10,13",
+                    "10,21",
+                    "11,3",
+                    "11,25",
+                    "11,26",
+                    "11,27",
+                    "12,24",
+                    "12,25",
+                    "12,28",
+                    "12,29",
+                    "12,30",
+                    "12,31",
+                    "1,1",
+                    "1,18",
+                    "2,15",
+                    "2,16",
+                    "2,17",
+                    "2,18",
+                    "2,19",
+                    "3,26",
+                    "4,12",
+                    "4,13",
+                    "4,14",
+                    "4,15",
+                    "4,16",
+                    "5,31"
+                ],
+                "short_days": [
+                    "9,9",
+                    "11,2",
+                    "11,19",
+                    "11,20",
+                    "11,23",
+                    "11,24",
+                    "12,9",
+                    "12,23",
+                    "1,13",
+                    "1,19",
+                    "1,20",
+                    "3,10",
+                    "4,7",
+                    "6,9",
+                    "6,10",
+                    "6,11"
+                ]
+            }
+        },
+        "constant_data": {
+            "block_times": {
+                "normal": [
+                    {
+                        "start_time": "0:00",
+                        "end_time": "8:20",
+                        "block_type": "before_school",
+                        "block_name": "Before School"
+                    },
+                    {
+                        "start_time": "8:20",
+                        "end_time": "9:46",
+                        "block_type": "class",
+                        "block_name": "1st Block"
+                    },
+                    {
+                        "start_time": "9:46",
+                        "end_time": "9:53",
+                        "block_type": "transition",
+                        "block_name": "Transition to 2nd Block"
+                    },
+                    {
+                        "start_time": "9:53",
+                        "end_time": "11:19",
+                        "block_type": "class",
+                        "block_name": "2nd Block"
+                    },
+                    {
+                        "start_time": "11:19",
+                        "end_time": "11:26",
+                        "block_type": "transition",
+                        "block_name": "Transition to 3rd Block"
+                    },
+                    {
+                        "start_time": "11:26",
+                        "end_time": "13:22",
+                        "block_type": "class_lunch",
+                        "block_name": "3rd Block"
+                    },
+                    {
+                        "start_time": "13:22",
+                        "end_time": "13:29",
+                        "block_type": "transition",
+                        "block_name": "Transition to 4th Block"
+                    },
+                    {
+                        "start_time": "13:29",
+                        "end_time": "14:55",
+                        "block_type": "class",
+                        "block_name": "4th Block"
+                    },
+                    {
+                        "start_time": "14:55",
+                        "end_time": "23:59",
+                        "block_type": "end_of_school_day",
+                        "block_name": "End of School Day"
+                    }
+                ],
+                "advisory": [
+                    {
+                        "start_time": "0:00",
+                        "end_time": "8:20",
+                        "block_type": "before_school",
+                        "block_name": "Before School"
+                    },
+                    {
+                        "start_time": "8:20",
+                        "end_time": "9:39",
+                        "block_type": "class",
+                        "block_name": "1st Block"
+                    },
+                    {
+                        "start_time": "9:39",
+                        "end_time": "9:46",
+                        "block_type": "transition",
+                        "block_name": "Transition to 2nd Block"
+                    },
+                    {
+                        "start_time": "9:46",
+                        "end_time": "11:05",
+                        "block_type": "class",
+                        "block_name": "2nd Block"
+                    },
+                    {
+                        "start_time": "11:05",
+                        "end_time": "11:12",
+                        "block_type": "transition",
+                        "block_name": "Transition to Advisory"
+                    },
+                    {
+                        "start_time": "11:12",
+                        "end_time": "11:37",
+                        "block_type": "advisory",
+                        "block_name": "Advisory"
+                    },
+                    {
+                        "start_time": "11:37",
+                        "end_time": "11:44",
+                        "block_type": "transition",
+                        "block_name": "Transition to 3rd Block"
+                    },
+                    {
+                        "start_time": "11:44",
+                        "end_time": "13:29",
+                        "block_type": "class_lunch",
+                        "block_name": "3rd Block"
+                    },
+                    {
+                        "start_time": "13:29",
+                        "end_time": "13:36",
+                        "block_type": "transition",
+                        "block_name": "Transition to 4th Block"
+                    },
+                    {
+                        "start_time": "13:36",
+                        "end_time": "14:55",
+                        "block_type": "class",
+                        "block_name": "4th Block"
+                    },
+                    {
+                        "start_time": "14:55",
+                        "end_time": "23:59",
+                        "block_type": "end_of_school_day",
+                        "block_name": "End of School Day"
+                    }
+                ],
+                "short": [
+                    {
+                        "start_time": "0:00",
+                        "end_time": "8:20",
+                        "block_type": "before_school",
+                        "block_name": "Before School"
+                    },
+                    {
+                        "start_time": "8:20",
+                        "end_time": "9:19",
+                        "block_type": "class",
+                        "block_name": "1st Block"
+                    },
+                    {
+                        "start_time": "9:19",
+                        "end_time": "9:26",
+                        "block_type": "transition",
+                        "block_name": "Transition to 2nd Block"
+                    },
+                    {
+                        "start_time": "9:26",
+                        "end_time": "10:24",
+                        "block_type": "class",
+                        "block_name": "2nd Block"
+                    },
+                    {
+                        "start_time": "10:24",
+                        "end_time": "10:31",
+                        "block_type": "transition",
+                        "block_name": "Transition to 3rd Block"
+                    },
+                    {
+                        "start_time": "10:31",
+                        "end_time": "11:29",
+                        "block_type": "class",
+                        "block_name": "3rd Block"
+                    },
+                    {
+                        "start_time": "11:29",
+                        "end_time": "11:36",
+                        "block_type": "transition",
+                        "block_name": "Transition to 4th Block"
+                    },
+                    {
+                        "start_time": "11:36",
+                        "end_time": "12:35",
+                        "block_type": "class",
+                        "block_name": "4th Block"
+                    },
+                    {
+                        "start_time": "12:35",
+                        "end_time": "23:59",
+                        "block_type": "end_of_school_day",
+                        "block_name": "End of School Day"
+                    }
+                ],
+                "no_school": [
+                    {
+                        "start_time": "0:00",
+                        "end_time": "23:59",
+                        "block_type": "no_school",
+                        "block_name": "No School!"
+                    }
+                ]
+            },
+            "lunch_times": {
+                "normal": [
+                    {
+                        "block_start": "11:24",
+                        "block_end": "11:54",
+                        "block_name": "1st Lunch"
+                    },
+                    {
+                        "block_start": "11:54",
+                        "block_end": "12:24",
+                        "block_name": "2nd Lunch"
+                    },
+                    {
+                        "block_start": "12:09",
+                        "block_end": "12:39",
+                        "block_name": "3rd Lunch"
+                    },
+                    {
+                        "block_start": "12:24",
+                        "block_end": "12:54",
+                        "block_name": "4th Lunch"
+                    },
+                    {
+                        "block_start": "12:54",
+                        "block_end": "13:24",
+                        "block_name": "5th Lunch"
+                    }
+                ],
+                "advisory": [
+                    {
+                        "block_start": "11:44",
+                        "block_end": "12:14",
+                        "block_name": "1st Lunch"
+                    },
+                    {
+                        "block_start": "12:09",
+                        "block_end": "12:39",
+                        "block_name": "2nd Lunch"
+                    },
+                    {
+                        "block_start": "12:26",
+                        "block_end": "12:56",
+                        "block_name": "3rd Lunch"
+                    },
+                    {
+                        "block_start": "12:34",
+                        "block_end": "13:04",
+                        "block_name": "4th Lunch"
+                    },
+                    {
+                        "block_start": "12:59",
+                        "block_end": "13:29",
+                        "block_name": "5th Lunch"
+                    }
+                ]
+            },
+            "class_schedules": [
+                [
+                    "1xA",
+                    "1yA",
+                    "3xA",
+                    "3yA",
+                    "5xA",
+                    "5yA",
+                    "7xA",
+                    "7yA"
+                ],
+                [
+                    "2xB",
+                    "2yB",
+                    "4xB",
+                    "4yB",
+                    "6xB",
+                    "6yB",
+                    "8xB",
+                    "8yB"
+                ],
+                [
+                    "3xC",
+                    "3yC",
+                    "1xC",
+                    "1yC",
+                    "7xC",
+                    "7yC",
+                    "5xC",
+                    "5yC"
+                ],
+                [
+                    "4xD",
+                    "4yD",
+                    "2xD",
+                    "2yD",
+                    "8xD",
+                    "8yD",
+                    "6xD",
+                    "6yD"
+                ]
+            ]
+        }
+    },
+    "ui_config": {
+        "use_main_accent_color": null,
+        "main_accent_color": [
+            255,
+            255,
+            255
+        ],
+        "bg_color": [
+            40,
+            40,
+            40
+        ],
+        "button_bg_color": [
+            85,
+            85,
+            85
+        ],
+        "progress_bar_bg_color": [
+            70,
+            70,
+            70
+        ],
+        "button_accent_color": [
+            130,
+            130,
+            130
+        ],
+        "text_color": [
+            255,
+            255,
+            255
+        ],
+        "muted_text_color": [
+            180,
+            180,
+            180
+        ],
+        "timeline_gradient": true,
+        "time_format": "%#I:%M %p",
+        "config_bg_color": [
+            55,
+            55,
+            55
+        ],
+        "default_transparency": "220",
+        "scroll_speed": "1.3",
+		"width": "376",
+        "height": "96"
+    }
+}
