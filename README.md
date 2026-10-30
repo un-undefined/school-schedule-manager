@@ -5,6 +5,8 @@ On first run, this program will:
      - If you change it to be illegal / incorrect, the program will likely crash.
      - It is recommended to edit the configuration in the built-in style or class editor.
      - The direct modification is possible in the UI, and it does check for JSON syntax errors, but not date formatting and parsing errors.
+ - Create a `default.config.json` file in the same directory.
+     - Refrain from editing this file.
  - Add a .bat file to `C:\Users\thoug\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
      - This causes it to open on computer startup.
      - If you do not want this, you can delete `school_schedule_manager_startup.bat` from that folder.
