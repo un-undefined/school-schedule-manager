@@ -5,7 +5,9 @@ Year:2026;Adv:3;Limit:C286;NoS:CFD9EBECF0FDGFGGGHI5I6I9IAIBIC010I262728292A48555
 
 ## Important Setup Info
 This schedule manager is meant for my school's schedule system, and for Windows only.
-On first run, this program will:
+Do not run the .exe directly without its dependencies. Use the setup `WHSSchoolScheduleManagerSetup.exe` to automatically do the tasks listed below and install the exe's dependencies, the _internal folder.
+
+On setup, this program will:
  - Create a `config.json` file in `C:\Users\<USER>\AppData\Local\WHSSchoolScheduleManager`, or `%localappdata%\WHSSchoolScheduleManager`.
      - This file can be directly modified if it is required.
      - If you change it to be illegal / incorrect, the program will likely crash.
@@ -27,8 +29,6 @@ The configuration settings includes:
 To directly change the special days, like school start, school end, shortened days, and no-school days, modify the configuration file directly.
 
 Inno Setup is used to install the app on your computer easily.
-
-Please ignore my horrible coding. It works.
 
 This software is licensed under the MIT License.
 Read the `LICENSE` file for additional information.
