@@ -1,3 +1,7 @@
+## Year Code for 2026-2027 School Year:
+### `Year:2026;Adv:3;Limit:C286;NoS:CFD9EBECF0FDGFGGGHI5I6I9IAIBIC010I262728292A4855565758597F;Short:CHFCG9GAGDGEHAI40D0J103C50848586`
+
+## Important Setup Info
 This schedule manager is meant for my school's schedule system, and for Windows only.
 On first run, this program will:
  - Create a `config.json` file in `C:\Users\<USER>\AppData\Local\WHSSchoolScheduleManager`, or `%localappdata%\WHSSchoolScheduleManager`.
