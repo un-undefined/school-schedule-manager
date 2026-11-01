@@ -7,9 +7,9 @@ On first run, this program will:
      - The direct modification is possible in the UI, and it does check for JSON syntax errors, but not date formatting and parsing errors.
  - Create a `default.config.json` file in the same directory.
      - Refrain from editing this file.
- - Add a .bat file to `C:\Users\thoug\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+ - Add a shortcut to `C:\Users\<USER>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
      - This causes it to open on computer startup.
-     - If you do not want this, you can delete `school_schedule_manager_startup.bat` from that folder.
+     - If you do not want this, you can delete it from that folder, or do not check the box in the Setup.
 
 The built-in configuration editor is better for modifying settings than directly changing the `config.json` file through a text editor or from the program itself (Edit Configuration File)
 The configuration settings includes:
