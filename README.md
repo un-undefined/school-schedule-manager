@@ -41,3 +41,5 @@ Read the `LICENSE` file for additional information.
 ## If you are running the software on macOS, read this:
  - You are likely running a version of the program ported to macOS by Brady Krupa using Claude AI. Note that the entire program will have to be re-ported every update, bugfix, or feature, as I use a Windows development environment.
  - The MIT License should still be applicable, and in the Copyright section of Settings. If it is not there, or if my GitHub username `un-undefined` is not present, legal consequences will apply to the distributer.
+
+## Note: I do not endorse or support vibe-coded programs or programs where a substantial amount or all of the code is made using AI.
