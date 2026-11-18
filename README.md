@@ -1,7 +1,19 @@
-## Year Code for 2026-2027 School Year:
-```text
-Year:2026;Adv:3;Limit:C286;NoS:CFD9EBECF0FDGFGGGHI5I6I9IAIBIC010I262728292A4855565758597F;Short:CHFCG9GAGDGEHAI40D0J103C50848586
-```
+> [!IMPORTANT]
+> If you came here from Brady's [website](
+https://programsforyou.com/) or from the original code: thank you for visiting. I really do appreciate it. :heart:
+
+> [!CAUTION]
+> I do not endorse or support vibe-coded programs or programs where a substantial amount or all of the code is made using AI. In fact, I despise it. I do, however, respect using AI to debug and to solve issues, as long as you understand it yourself.
+
+> **His entire [website](
+https://programsforyou.com/) and all of the apps on it are fully vibe-coded.**
+> **The original version is mine. I gave him permission to use AI to make it macOS-friendly and add extra features.**
+
+> [!NOTE]
+> Year Code for 2026-2027 School Year:
+> ```text
+> Year:2026;Adv:3;Limit:C286;NoS:CFD9EBECF0FDGFGGGHI5I6I9IAIBIC010I262728292A4855565758597F;Short:CHFCG9GAGDGEHAI40D0J103C50848586
+> ```
 
 ## Important Setup Info
 This schedule manager is meant for my school's schedule system, and for Windows only.
@@ -40,6 +52,6 @@ Read the `LICENSE` file for additional information.
 
 ## If you are running the software on macOS, read this:
  - You are likely running a version of the program ported to macOS by Brady Krupa using Claude AI. Note that the entire program will have to be re-ported every update, bugfix, or feature, as I use a Windows development environment.
- - The License should still be applicable, and in the Copyright section of Settings. If it is not there, or if my GitHub username `un-undefined` is not present, legal consequences will apply to the distributer.
+ - The License should still be applicable, and in the Copyright section of Settings. If it is not there, or if my GitHub username `un-undefined` is not present or my name Owen Wang, legal consequences will apply to the distributer.
 
 ## Note: I do not endorse or support vibe-coded programs or programs where a substantial amount or all of the code is made using AI.
