@@ -1,7 +1,7 @@
 Terms of Service for Owen's School Schedule Manager and any other derivative works:
-This includes Brady Krupa's macOS version, ported using Claude AI, which can be found on [programsforyou.com]
+This includes Brady Krupa's macOS version, ported using Claude AI, which can be found on [his website](programsforyou.com).
 
-Last Updated: 11/19/2026
+Last Updated: November 19, 2026 (<relative-time datetime="2026-11-19T11:00:00Z"></relative-time>)
 
 1. Acceptance of Terms
  - By accessing or using [Product/Service Name] (the "Service"), operated by [Your Full Name or DBA] ("I," "me," or "my"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Service.
@@ -16,15 +16,13 @@ Last Updated: 11/19/2026
  - Acceptable Use. You agree not to use the hosted Service to:
 	- Violate any applicable laws or regulations.
 	- Distribute malware, spam, or abusive content.
-	- Overload, scrape, or disrupt my servers or network infrastructure.
  - Service Availability & Termination. As an independent developer, I provide this Service on a best-effort basis and do not guarantee uninterrupted uptime or data retention. I reserve the right to modify, suspend, or discontinue the Service, or terminate your account, at any time. Termination of your hosted account does not revoke your rights to the underlying code under the AGPLv3.
 
 4. User Content & Data
  - Ownership. You retain all ownership rights to the data, text, files, and content ("User Content") you upload to the Service.
- - License to Host. You grant me a limited, worldwide, non-exclusive license to host, store, back up, and display your User Content solely as necessary to operate and maintain the Service for you. You are solely responsible for backing up your own User Content.
 
 5. Trademarks and Branding
- The AGPLv3 grants you rights to the software code, not to my name or project branding. "[Product/Service Name]," its logos, and its domain names are my property. If you self-host or distribute a modified version of the software, you must remove my branding and clearly indicate that your version has been modified, as required by Section 5(a) of the AGPLv3.
+ - The AGPLv3 grants you rights to the software code, not to my name or project branding. "[Product/Service Name]," its logos, and its domain names are my property. If you self-host or distribute a modified version of the software, you must remove my branding and clearly indicate that your version has been modified, as required by Section 5(a) of the AGPLv3.
 
 6. Disclaimer of Warranties & Limitation of Liability
  - No Warranty. Consistent with Sections 15 and 16 of the GNU AGPLv3 text, the Service and the underlying software are provided "AS IS" and "AS AVAILABLE," without warranty of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, or non-infringement.
