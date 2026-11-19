@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **The entirety of Brady's website was vibe-coded. Every single application is completely vibe-coded, and I am the only person on the team who can actually code. The Windows version was made by me, not vibe-coded. Any other version, including the macOS port, is completely vibe-coded. Read the `README.md` for more information.**
+
 Terms of Service for Owen's School Schedule Manager and any other derivative works:
 This includes Brady Krupa's macOS version, ported using Claude AI, which can be found on [his website](programsforyou.com).
 
@@ -28,3 +31,9 @@ Last Updated: November 19, 2026 (<relative-time datetime="2026-11-19T11:00:00Z">
  - No Warranty. Consistent with Sections 15 and 16 of the GNU AGPLv3 text, the Service and the underlying software are provided "AS IS" and "AS AVAILABLE," without warranty of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, or non-infringement.
  - Limitation of Liability. To the maximum extent permitted by law, I shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages, or any loss of data, profits, or goodwill resulting from your use of or inability to use the Service.
  - Indemnification. You agree to defend, indemnify, and hold me harmless from any claims, damages, or expenses arising out of your use of the hosted Service, your User Content, or any contractual obligations you assume if you redistribute or offer commercial support for the software (per AGPLv3 Section 7f).
+
+7. Control over Derivative Works
+ - Any distributer must take down any downloads of my program on request.
+ - Modification of the program is allowed, including human and AI-generated modifications.
+    - I do not endorse or support any vibe-coding.
+    - The only reason I allow Brady's website to exist is to popularize and distribute it.
